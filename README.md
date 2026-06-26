@@ -2,6 +2,8 @@
 
 This repository contains the laboratory activities, Python implementations, exercises, and mini-projects completed as part of the 23CSE301 – Machine Learning course.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agneay/Machine-Learning)
+
 ![maintained](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
 ![forks](https://img.shields.io/github/forks/agneay/Machine-Learning?style=for-the-badge)
 ![license](https://img.shields.io/github/license/agneay/Machine-Learning?style=for-the-badge)
